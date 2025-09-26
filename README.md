@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=5FF727&background=FE67FF00&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hey+there!+I%27m+Mukul+Kankheria+%F0%9F%92%BB;Frontend+Developer" alt="Typing SVG" />
   </a>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW82bzM5M2RnZnd2cGJjbTV0eHN4OWtmYTNsMHZ2Z3ZoNnpxYnJ2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgIc0lryrxvqVGM/giphy.gif" width="900" />
+  <img src="https://cdna.artstation.com/p/assets/images/images/025/789/352/original/pixel-jeff-galaxy-far-far-away.gif?1586928273" width="900" />
   <br/><br/>
   <h3>
     I’m a 3rd year B.Tech student and a passionate Frontend Developer.  
