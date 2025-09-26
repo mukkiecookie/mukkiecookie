@@ -60,9 +60,11 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=canva&logoColor=white) 
 ![Blender](https://img.shields.io/badge/Blender-%23000000.svg?style=plastic&logo=blender&logoColor=F5792A)
 
+<!-- Snake Game Repo View -->
 
-
----
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mukkiecookie&show_icons=true&locale=en" alt="GitHub stats" />
