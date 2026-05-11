@@ -72,18 +72,9 @@
 <div align="center">
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=mukkiecookie&show_icons=true&theme=tokyonight&hide_border=true" 
-  height="180"
+  src="https://github-profile-trophy.vercel.app/?username=mukkiecookie&theme=tokyonight&no-frame=true&row=1&column=6" 
+  alt="trophies"
 />
-
-<img 
-  src="https://streak-stats.demolab.com?user=mukkiecookie&theme=tokyonight&hide_border=true" 
-  height="180"
-/>
-
-</div>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mukkiecookie&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="trophies" />
 
 <br/><br/>
 
@@ -93,7 +84,7 @@
 />
 
 <img 
-  src="https://streak-stats.demolab.com?user=mukkiecookie&theme=tokyonight&hide_border=true" 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=mukkiecookie&theme=tokyonight&hide_border=true" 
   height="170"
 />
 
