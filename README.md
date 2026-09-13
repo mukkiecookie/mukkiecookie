@@ -7,7 +7,7 @@
 [![Behance](https://img.shields.io/badge/Behance-mukkiecookie-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/mukkiecookie)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mukul--kankheria-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mukul-kankheria-768186225/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mukulkankheria@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View-black?style=flat-square)](https://drive.google.com/file/d/1WCEGgyYiSK7W6QjRDyvJ6jbk_EeKocNS/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-View-black?style=flat-square)]([https://drive.google.com/file/d/1WCEGgyYiSK7W6QjRDyvJ6jbk_EeKocNS/view?usp=drive_link](https://drive.google.com/file/d/11IgBE6Ge628eO5IgYYjhp_Z2EvzHn1rU/view?usp=sharing))
 
 </div>
 
